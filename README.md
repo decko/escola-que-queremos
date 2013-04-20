@@ -1,4 +1,5 @@
-README
+Escola Que Queremos - http://escolaquequeremos.org
+==================================================
 
 Como se mede a qualidade de uma escola? Hoje, o principal indicador levado em conta no debate educacional para se falar de qualidade é o Ideb – Índice de Desenvolvimento da Educação. Mas, apesar de ser uma referência importante, o Ideb ainda é insuficiente: diz apenas sobre o desempenho dos alunos em Português e Matemática e o rendimento escolar (taxa de aprovação), sem trazer dados de contexto que permitam entender por que o aprendizado aconteceu como previsto, ou não.
 
